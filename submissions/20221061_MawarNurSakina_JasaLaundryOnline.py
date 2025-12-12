@@ -217,4 +217,5 @@ while pilihan != 7:
         print("Semoga hari Anda menyenangkan!")
     else:
         if pilihan != 0:
+
             print("Pilihan tidak valid! Silakan pilih 1-7.\n")
